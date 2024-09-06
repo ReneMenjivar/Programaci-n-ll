@@ -1,0 +1,11 @@
+C:\Users\ALUMNO\Desktop\Proyecto\CapaDesconectada\CapaDesconectada\bin\Debug\CapaDesconectada.exe.config
+C:\Users\ALUMNO\Desktop\Proyecto\CapaDesconectada\CapaDesconectada\bin\Debug\CapaDesconectada.exe
+C:\Users\ALUMNO\Desktop\Proyecto\CapaDesconectada\CapaDesconectada\bin\Debug\CapaDesconectada.pdb
+C:\Users\ALUMNO\Desktop\Proyecto\CapaDesconectada\CapaDesconectada\obj\Debug\CapaDesconectada.csproj.AssemblyReference.cache
+C:\Users\ALUMNO\Desktop\Proyecto\CapaDesconectada\CapaDesconectada\obj\Debug\CapaDesconectada.csproj.SuggestedBindingRedirects.cache
+C:\Users\ALUMNO\Desktop\Proyecto\CapaDesconectada\CapaDesconectada\obj\Debug\CapaDesconectada.Form1.resources
+C:\Users\ALUMNO\Desktop\Proyecto\CapaDesconectada\CapaDesconectada\obj\Debug\CapaDesconectada.Properties.Resources.resources
+C:\Users\ALUMNO\Desktop\Proyecto\CapaDesconectada\CapaDesconectada\obj\Debug\CapaDesconectada.csproj.GenerateResource.cache
+C:\Users\ALUMNO\Desktop\Proyecto\CapaDesconectada\CapaDesconectada\obj\Debug\CapaDesconectada.csproj.CoreCompileInputs.cache
+C:\Users\ALUMNO\Desktop\Proyecto\CapaDesconectada\CapaDesconectada\obj\Debug\CapaDesconectada.exe
+C:\Users\ALUMNO\Desktop\Proyecto\CapaDesconectada\CapaDesconectada\obj\Debug\CapaDesconectada.pdb
